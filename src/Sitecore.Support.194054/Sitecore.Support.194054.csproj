@@ -55,7 +55,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\zzz\Sitecore.Support.194054.config" />
     <Content Include="sitecore\shell\Applications\Buckets\Scripts\ItemBucket.js" />
   </ItemGroup>
   <ItemGroup>
